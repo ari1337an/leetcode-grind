@@ -33,15 +33,15 @@ leetcode-grind/
 
 ## 🛠 Tech Stack
 
-- Primary: **Python 3**
-- Occasional: **JavaScript**, **C++** (for variation)
-- Editor: VSCode / LeetCode playground
+- Primary: **C++**
+- Occasional: **JavaScript**, **python** (for variation)
+- Editor: Google Docs (for putting myself in more constrained schenario)
 
 ---
 
 ## 📅 Grind Plan
 
-- 🧩 2–3 LeetCode problems per day
+- 🧩 1 LeetCode problems per day
 - 🧠 Weekly review of failed or tricky problems
 - 🏁 Goal: 150+ Medium, 30+ Hard by end of grind
 - 📌 Tracked in personal Notion
@@ -52,7 +52,7 @@ leetcode-grind/
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 00     |
+| Easy       | 01     |
 | Medium     | 00     |
 | Hard       | 00     |
 | **Total**  | 000    |
