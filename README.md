@@ -34,8 +34,7 @@ leetcode-grind/
 ## 🛠 Tech Stack
 
 - Primary: **C++**
-- Occasional: **JavaScript**, **python** (for variation)
-- Editor: Google Docs (for putting myself in more constrained schenario)
+- Editor: Google Docs (for putting myself in more constrained scenario)
 
 ---
 
