@@ -52,9 +52,9 @@ leetcode-grind/
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 01     |
-| Medium     | 01     |
+| Medium     | 03     |
 | Hard       | 00     |
-| **Total**  | 002    |
+| **Total**  | 003    |
 
 _(Updated weekly)_
 
