@@ -34,7 +34,7 @@ leetcode-grind/
 ## 🛠 Tech Stack
 
 - Primary: **C++**
-- Editor: Google Docs (for putting myself in more constrained scenario)
+- Editor: Google Docs (for putting myself in more constrained scenario) or CotEditor (all helps turned off)
 
 ---
 
@@ -52,9 +52,9 @@ leetcode-grind/
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 01     |
-| Medium     | 00     |
+| Medium     | 01     |
 | Hard       | 00     |
-| **Total**  | 001    |
+| **Total**  | 002    |
 
 _(Updated weekly)_
 
