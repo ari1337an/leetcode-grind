@@ -44,17 +44,18 @@ leetcode-grind/
 - 🧠 Weekly review of failed or tricky problems
 - 🏁 Goal: 150+ Medium, 30+ Hard by end of grind
 - 📌 Tracked in personal Notion
+- 🥇 Only trying to make it accepted in first iteration. The follow ups will be solved again.
 
 ---
 
 ## 📈 Progress Snapshot
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy       | 01     |
-| Medium     | 03     |
-| Hard       | 00     |
-| **Total**  | 003    |
+| Difficulty | Solved | Followup Solved |
+|------------|--------|-----------------|
+| Easy       | 01     | 00              |
+| Medium     | 03     | 00              |
+| Hard       | 00     | 00              |
+| **Total**  | 003    | 00              |
 
 _(Updated weekly)_
 
