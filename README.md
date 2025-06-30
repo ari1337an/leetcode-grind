@@ -53,7 +53,7 @@ leetcode-grind/
 | Difficulty | Solved | Followup Solved |
 |------------|--------|-----------------|
 | Easy       | 01     | 00              |
-| Medium     | 03     | 00              |
+| Medium     | 04     | 00              |
 | Hard       | 00     | 00              |
 | **Total**  | 003    | 00              |
 
