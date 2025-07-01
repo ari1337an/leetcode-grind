@@ -55,7 +55,7 @@ leetcode-grind/
 | Easy       | 01     | 00              |
 | Medium     | 04     | 00              |
 | Hard       | 00     | 00              |
-| **Total**  | 003    | 00              |
+| **Total**  | 005    | 00              |
 
 _(Updated weekly)_
 
