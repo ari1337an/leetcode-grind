@@ -52,10 +52,10 @@ leetcode-grind/
 
 | Difficulty | Solved | Followup Solved |
 |------------|--------|-----------------|
-| Easy       | 01     | 00              |
+| Easy       | 02     | 00              |
 | Medium     | 04     | 00              |
 | Hard       | 00     | 00              |
-| **Total**  | 005    | 00              |
+| **Total**  | 006    | 00              |
 
 _(Updated weekly)_
 
